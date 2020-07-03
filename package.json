@@ -1,0 +1,22 @@
+{
+  "name": "koa-verification",
+  "version": "1.0.1",
+  "description": "Parameter verification for the interface",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blingwei/koa-verification.git"
+  },
+  "keywords": [
+    "parameter",
+    "verify"
+  ],
+  "author": "lw",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.1.1"
+  }
+}
